@@ -1,4 +1,4 @@
-## Hi there 👋 I am Vishnu
+## Hi there 👋 I am Hrishitha
 
 <h3 align="left">Skills:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql," />
